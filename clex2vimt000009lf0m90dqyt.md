@@ -6,6 +6,7 @@ datePublished: Mon Mar 06 2023 17:10:12 GMT+0000 (Coordinated Universal Time)
 cuid: clex2vimt000009lf0m90dqyt
 slug: react-to-pwa-basic
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678122444702/5e025084-2ba7-4858-8036-db1c8c9137fe.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678124543458/3214da4e-0e91-4585-b83d-90478fd82f2c.webp
 tags: javascript, web-development, reactjs, pwa, wemakedevs
 
 ---
